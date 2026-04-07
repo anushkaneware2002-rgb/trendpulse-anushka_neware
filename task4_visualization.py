@@ -8,6 +8,7 @@ import os
 # -------------------------------
 # 1. Load Data
 # -------------------------------
+
 file_path = "data/trends_analysed.csv"
 df = pd.read_csv(file_path)
 
