@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Step 1: Load CSV file from Task 2
-file_path = "data/trends_clean.csv"
+file_path = "data/cleaned_trends.csv"
 
 df = pd.read_csv(file_path)
 
