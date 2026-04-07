@@ -93,7 +93,7 @@ for category in categories:
 
 # Step 3: Save to JSON file
 date_str = datetime.now().strftime("%Y%m%d")
-filename = f"data/trends_{date_str}.json"
+filename = "data/trends.json"
 
 # Create folder if not exists
 import os
